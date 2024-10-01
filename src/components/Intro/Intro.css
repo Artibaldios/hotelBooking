@@ -1,0 +1,80 @@
+.intro-section {
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.intro-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.intro-section h1 {
+    font-size: 36px;
+}
+
+.intro-section a {
+    border: 0;
+    color: #000;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 0 5px;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    border-radius: 15px;
+    padding: 15px 25px;
+    background-color: #e4e4e4;
+}
+
+.intro-section a:hover {
+    box-shadow: inset 200px 0 0 0 #007BFF;
+    color: #fff;
+}
+
+.intro-box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.info-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffef5c;
+    color: #000;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    gap: 15px;
+}
+
+@media (max-width: 768px) {
+    .intro-box:nth-of-type(2) {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info-box {
+        width: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .intro-section h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .intro-section button,
+    .intro-section a {
+        font-size: 18px;
+        padding: 8px;
+    }
+
+    .info-box {
+        width: 75%;
+    }
+}

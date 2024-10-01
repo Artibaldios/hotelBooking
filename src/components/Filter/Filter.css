@@ -1,0 +1,56 @@
+.filter-wrapper {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.filter-input-box {
+    display: flex;
+}
+
+.inputs-box {
+    display: flex;
+}
+
+.filter-wrapper h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.filter-wrapper label {
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+}
+
+.filter-wrapper input[type="number"],
+.filter-wrapper input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 5px;
+    transition: border-color 0.3s;
+}
+
+
+.filter-wrapper input[type="number"]:focus,
+.filter-wrapper input[type="text"]:focus {
+    border-color: #007BFF;
+    outline: none;
+}
+
+@media (max-width: 768px) {
+    .filter-wrapper input[type="text"] {
+        width: calc(100% - 15px);
+    }
+
+    .filter-input-box {
+        flex-direction: column;
+    }
+}

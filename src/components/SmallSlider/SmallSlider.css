@@ -1,0 +1,13 @@
+.small-slider .swiper-wrapper {
+    visibility: hidden;
+}
+
+.small-slider .swiper-wrapper:hover> :not(:hover) {
+    opacity: 0.5;
+}
+
+.small-slider .swiper-slide {
+    visibility: visible;
+    transition: opacity 0.45s ease;
+    cursor: pointer;
+}
