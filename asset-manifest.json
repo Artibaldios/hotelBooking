@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hotelBooking/static/css/main.69df007a.css",
+    "main.js": "/hotelBooking/static/js/main.b0ebbf22.js",
+    "static/js/453.751cbeb4.chunk.js": "/hotelBooking/static/js/453.751cbeb4.chunk.js",
+    "static/media/hotel3.jpg": "/hotelBooking/static/media/hotel3.5134cd69487d02ac5fd8.jpg",
+    "static/media/hotel5.jpg": "/hotelBooking/static/media/hotel5.f60e8f22db590dda5181.jpg",
+    "static/media/hotel10.jpg": "/hotelBooking/static/media/hotel10.d2dae5d33c8651f38bf2.jpg",
+    "static/media/hotel11.jpg": "/hotelBooking/static/media/hotel11.55e472f603a00ee1aaac.jpg",
+    "static/media/hotel20.jpg": "/hotelBooking/static/media/hotel20.55e472f603a00ee1aaac.jpg",
+    "static/media/hotel8.jpg": "/hotelBooking/static/media/hotel8.b8b5bc71712132513e1d.jpg",
+    "static/media/hotel12.jpg": "/hotelBooking/static/media/hotel12.f5704b4cb914371253a1.jpg",
+    "static/media/hotel14.jpg": "/hotelBooking/static/media/hotel14.3733c411f97502b1dbe8.jpg",
+    "static/media/hotel17.jpg": "/hotelBooking/static/media/hotel17.741141a89963ca5b3612.jpg",
+    "static/media/hotel19.jpg": "/hotelBooking/static/media/hotel19.3d60e73030c901ac34c1.jpg",
+    "static/media/hotel9.jpg": "/hotelBooking/static/media/hotel9.1cdeda19ac67a272515f.jpg",
+    "static/media/hotel6.jpg": "/hotelBooking/static/media/hotel6.bb9b5d27e07ad9c725f6.jpg",
+    "static/media/hotel13.jpg": "/hotelBooking/static/media/hotel13.5eff4e4fe27bce40b1e5.jpg",
+    "static/media/hotel2.jpg": "/hotelBooking/static/media/hotel2.142248ab1677b1e17038.jpg",
+    "static/media/hotel1.jpg": "/hotelBooking/static/media/hotel1.82a8c24c1920cc06575f.jpg",
+    "static/media/hotel18.jpg": "/hotelBooking/static/media/hotel18.c2d0021de3ca78af2b78.jpg",
+    "static/media/hotel16.jpg": "/hotelBooking/static/media/hotel16.26cf2d4a4361580c6fd8.jpg",
+    "static/media/hotel4.jpg": "/hotelBooking/static/media/hotel4.a3040f771fd8fa4b50a0.jpg",
+    "static/media/hotel7.jpg": "/hotelBooking/static/media/hotel7.2c932818f28350588015.jpg",
+    "static/media/hotel15.jpg": "/hotelBooking/static/media/hotel15.49be17b74f3ea91e5c33.jpg",
+    "index.html": "/hotelBooking/index.html",
+    "main.69df007a.css.map": "/hotelBooking/static/css/main.69df007a.css.map",
+    "main.b0ebbf22.js.map": "/hotelBooking/static/js/main.b0ebbf22.js.map",
+    "453.751cbeb4.chunk.js.map": "/hotelBooking/static/js/453.751cbeb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69df007a.css",
+    "static/js/main.b0ebbf22.js"
+  ]
+}
